@@ -1,0 +1,6 @@
+pillow~=11.1.0
+flet~=0.27.1
+psycopg2~=2.9.10
+supabase~=2.13.0
+python-dotenv~=1.0.1
+pandas~=2.2.3
